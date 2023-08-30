@@ -4,9 +4,8 @@
 
 #### Projects
 
-ewelinawestcott.github.io/air-vado.png
-
 Air-vado
+<img width="212" alt="air-vado" src="https://github.com/ewelina-we/ewelinawestcott.github.io/assets/105117816/d8f6aa31-9326-4816-ba58-fbd74b7fe46d">
 Air-vado is a travel agency, that buys flights  at a discounted rate from major airlines to sell to the public. In the highly competitive air travel market they need to utilise data to increase their business intelligence and attract future investors.
 The major factors influencing revenue are airline, the day of the flight and flight duration. Jet Airways solely attributes for 46.54% of total revenue. To maximise ROI Air-vado needs to ensure Jet Airways flights are part of Air-vado offering.
 
@@ -21,6 +20,7 @@ Top ticket price influencers are:
 
 Additionally, although business class tickets are 74.29% more expensive than economy class (median price), economy class tickets generate 99.46% of total revenue. 
 
+<img width="982" alt="air-vado-overview" src="https://github.com/ewelina-we/ewelinawestcott.github.io/assets/105117816/c3502654-e289-4cc4-817e-cd0c99558395">
 
 ## Education & Training
 - Data Analyst Accelerator Skills Bootcamp, Avado (July 2023)
