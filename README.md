@@ -6,7 +6,7 @@
 
 Air-vado
 
-<img width="212" alt="air-vado" src="https://github.com/ewelina-we/ewelinawestcott.github.io/assets/105117816/d8f6aa31-9326-4816-ba58-fbd74b7fe46d">
+<img width="212" align="center" alt="air-vado" src="https://github.com/ewelina-we/ewelinawestcott.github.io/assets/105117816/d8f6aa31-9326-4816-ba58-fbd74b7fe46d">
 
 Air-vado is a travel agency, that buys flights  at a discounted rate from major airlines to sell to the public. In the highly competitive air travel market they need to utilise data to increase their business intelligence and attract future investors.
 The major factors influencing revenue are airline, the day of the flight and flight duration. Jet Airways solely attributes for 46.54% of total revenue. To maximise ROI Air-vado needs to ensure Jet Airways flights are part of Air-vado offering.
