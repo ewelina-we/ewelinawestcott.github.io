@@ -4,6 +4,8 @@
 
 #### Projects
 
+air-vado-overview.png
+
 Air-vado
 Air-vado is a travel agency, that buys flights  at a discounted rate from major airlines to sell to the public. In the highly competitive air travel market they need to utilise data to increase their business intelligence and attract future investors.
 The major factors influencing revenue are airline, the day of the flight and flight duration. Jet Airways solely attributes for 46.54% of total revenue. To maximise ROI Air-vado needs to ensure Jet Airways flights are part of Air-vado offering.
@@ -18,7 +20,6 @@ Top ticket price influencers are:
 - arrival airport.
 
 Additionally, although business class tickets are 74.29% more expensive than economy class (median price), economy class tickets generate 99.46% of total revenue. 
-
 
 
 ## Education & Training
