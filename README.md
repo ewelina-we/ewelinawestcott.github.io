@@ -38,7 +38,7 @@ Additionally, although business class tickets are 74.29% more expensive than eco
 
 ## Work Experience
 - SEO Consultant, Freelance, Sept 2022 - present
-  Providing ad-hoc support: data analysis, dashboard creation, reporting, technical SEO audits, recommendations, and fixes for a number of accounts.
+nl  Providing ad-hoc support: data analysis, dashboard creation, reporting, technical SEO audits, recommendations, and fixes for a number of accounts.
 
 - Senior SEO Executive, SALT.agency, Leeds (remote), Oct 2022 – August 2023
   Responsible for strategy, implementation, monitoring, reporting and client communication for a number of eCommerce, SaaS, SME accounts, as well as mentoring junior team members.
