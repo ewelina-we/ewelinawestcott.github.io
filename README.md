@@ -4,7 +4,7 @@
 
 #### Projects
 
-air-vado-overview.png
+ewelinawestcott.github.io/air-vado.png
 
 Air-vado
 Air-vado is a travel agency, that buys flights  at a discounted rate from major airlines to sell to the public. In the highly competitive air travel market they need to utilise data to increase their business intelligence and attract future investors.
