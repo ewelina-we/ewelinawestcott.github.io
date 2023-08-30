@@ -1,8 +1,9 @@
 # ewelinawestcott.github.io
-#Data Analyst
+
+Data Analyst
 Technical skills: Excel, MySQL
 
-##Education & Training
+Education & Training
 Data Analyst Accelerator Skills Bootcamp, Avado (July 2023)
 CoRise SQL Crash Course, Corise (June 2023)
 Data & SQL MOOC Sprint + Challenge, Code First Girls (September/October 2022)
@@ -14,4 +15,4 @@ Introduction to Data Studio, Google Analytics Academy (2020)
 Advanced Google Analytics, Google Analytics Academy (2020)
 Google Analytics for Beginners, Google Analytics Academy (2020)
 
-#Work Experience
+Work Experience
